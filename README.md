@@ -23,3 +23,4 @@ Change theme color
 Update configuration
 Fix broken link
 Clean up codebase
+Improve error handling
