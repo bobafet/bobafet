@@ -25,3 +25,4 @@ Fix broken link
 Clean up codebase
 Improve error handling
 Tweak margin and padding
+Refactor core logic
