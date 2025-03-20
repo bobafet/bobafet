@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve logging
 Fix bug in feature X
 Fix bug in feature X
+Add documentation
