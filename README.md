@@ -20,3 +20,4 @@ Fix bug in feature X
 Add documentation
 Remove unused imports
 Change theme color
+Update configuration
