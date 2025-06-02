@@ -28,3 +28,4 @@ Tweak margin and padding
 Refactor core logic
 Remove unused imports
 Add new utility script
+Fix typo in README
